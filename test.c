@@ -1,6 +1,5 @@
 
 #include "selflua.h"
-#include "mat.h"
 
 int main(int argc, char *argv[])
 {
